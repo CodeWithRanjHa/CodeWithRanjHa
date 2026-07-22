@@ -1,4 +1,4 @@
-![logo](https://github.com/CodeWithRanjHa/CodeWithRanjHa/blob/main/link%20banner.png)
+<img width="2033" height="773" alt="Image" src="https://github.com/user-attachments/assets/83fceca1-e510-42ef-9fd5-0446d607dc1a" />
 
 <h1 align="center">Hi 👋, I'm Wasim Ranjha</h1>
 <h3 align="center">Full Stack Engineer | Django + React | AI Agents, RAG, LLM Systems</h3>
